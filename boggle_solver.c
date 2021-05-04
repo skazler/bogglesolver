@@ -16,7 +16,6 @@
 #include <fcntl.h>
 #include <errno.h>
 
-#define _CRT_SECURE_NO_WARNINGS
 
 /************************ Structs & Definitions *************************/
 
